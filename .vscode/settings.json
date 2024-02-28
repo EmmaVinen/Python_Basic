@@ -1,0 +1,9 @@
+{
+	"[python]": {
+			"editor.defaultFormatter": "ms-python.black-formatter",
+			"editor.formatOnSave": true
+  },
+	"python.envFile": "${workspaceFolder}/.venv",
+	"python.terminal.activateEnvInCurrentTerminal": true,
+}
+
